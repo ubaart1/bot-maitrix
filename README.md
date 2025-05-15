@@ -3,25 +3,6 @@
 
 Bot otomatis untuk operasi mint → swap → stake di testnet MAITRIX (Arbitrum Sepolia).
 
-## Fitur
-
-- Otomatis mint token ketika saldo rendah
-- Swap token antar pasangan yang didukung
-- Stake token di pool staking yang tersedia
-- Cek saldo token
-- Jalankan operasi individual atau siklus otomatis penuh
-- Jalankan urutan transaksi spesifik seperti yang telah dilakukan sebelumnya
-
-## Token yang Didukung
-
-- ATH (aUTH)
-- USDe (Ethena USD)
-- LVLUSD (Level USD)
-- VANA
-- AUSD
-- VUSD (Virtual USD)
-- VANAUSD
-
 ## Prasyarat
 
 - Python 3.8+
@@ -136,5 +117,4 @@ MIT
 
 Bot ini hanya untuk tujuan pendidikan. Gunakan dengan risiko Anda sendiri. Penulis tidak bertanggung jawab atas kerugian yang timbul akibat penggunaan software ini.
 =======
-# bot-maitrix
->>>>>>> 8c7c2639a4305187aed5b1be42be725a8209f9e7
+e7
