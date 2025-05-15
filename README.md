@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MAITRIX Bot
 
 Bot otomatis untuk operasi mint → swap → stake di testnet MAITRIX (Arbitrum Sepolia).
@@ -134,3 +135,6 @@ MIT
 ## Disclaimer
 
 Bot ini hanya untuk tujuan pendidikan. Gunakan dengan risiko Anda sendiri. Penulis tidak bertanggung jawab atas kerugian yang timbul akibat penggunaan software ini.
+=======
+# bot-maitrix
+>>>>>>> 8c7c2639a4305187aed5b1be42be725a8209f9e7
